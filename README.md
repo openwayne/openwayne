@@ -21,11 +21,6 @@ A smart web companion designed to bridge the gap between reading and acquisition
 * **VISUALIZATION**: Lead Architect for the visualization open-source engines; specialized in Canvas and WebGL.
 * **GAME_ENGINEERING**: Development of custom RTS and city-building frameworks using C++, Lua, and Entity Systems.
 
----
-
-### ■ GITHUB_STATS
-![Stats](https://github-readme-stats.vercel.app/api?username=openwayne&show_icons=true&theme=dark&hide_border=true)
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=openwayne&layout=compact&theme=dark&hide_border=true)
 
 ---
