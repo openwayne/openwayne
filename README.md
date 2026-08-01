@@ -50,7 +50,7 @@
 - 💡 **Highlight**: Indexed 200k+ dictionary entries with contextual word-sense resolution. Features spaced-repetition scheduling and adaptive item selection.
 
 <a href="https://dictclub.com" target="_blank">
-  <img src="https://dictclub.com/og-image.png" width="800" alt="DictClub Preview" />
+  <img src="./dictclub_carousel.gif" width="800" alt="DictClub Preview Carousel" />
 </a>
 
 ### 🎮 [Miora]
