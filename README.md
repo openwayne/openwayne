@@ -61,11 +61,4 @@
 
 <img src="./miora.png" width="800" alt="Miora Preview" />
 
----
 
-## 📊 `./run_telemetry.sh`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=openwayne&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=openwayne&layout=compact&theme=dark&hide_border=true&cache_seconds=86400&v=2" alt="Top Langs" />
-</div>
