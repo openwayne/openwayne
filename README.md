@@ -59,6 +59,8 @@
 - ⚡ **Synchronization**: Hybrid Lockstep & State-Sync model via a shared Server-Authoritative ECS. Enforces strict mathematical determinism across identical Lua ECS pure functions. Features 60-frame state checksums with seamless `dirty_entities` delta resync and Optimistic UI prediction.
 - 🚀 **Performance**: Zero-GC optimization at the architectural level. Employs in-place table modifications across the C++/Lua sol2 boundary and Lua FFI C-level pointer offsets for network decoding. Algorithmic bottlenecks strictly constrained (e.g., O(logN) QuadTrees), all while supporting instant Lua hot-reloading.
 
+<img src="./miora.png" width="800" alt="Miora Preview" />
+
 ---
 
 ## 📊 `./run_telemetry.sh`
